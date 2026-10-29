@@ -2,16 +2,6 @@
 
 **CodeSpark** is a modern learning platform designed to make coding more interactive, accessible, and engaging. It provides a workspace where learners can explore programming concepts, write code, build websites, organize their work, and use AI-powered assistance to improve their learning experience.
 
-
-
-## 🎯 Project Objectives
-
-- Make programming easier to learn through practical experience.
-- Provide a unified workspace for coding, website development, and learning.
-- Use AI assistance to support problem-solving and content creation.
-- Encourage creativity, collaboration, and independent learning.
-- Help learners organize their code, notes, and projects efficiently.
-
 ## 🛠️ Technologies Used
 
 The exact technology stack should match the implementation in the source repository.
