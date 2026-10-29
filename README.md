@@ -2,19 +2,7 @@
 
 **CodeSpark** is a modern learning platform designed to make coding more interactive, accessible, and engaging. It provides a workspace where learners can explore programming concepts, write code, build websites, organize their work, and use AI-powered assistance to improve their learning experience.
 
-🌐 **Live Demo:** https://codesparrk.vercel.app
 
-## ✨ Features
-
-- 💻 **CodeSpace** — An interactive coding workspace for writing and developing code.
-- 🌐 **WebSpace** — Create and manage website projects using templates and live previews.
-- 🤖 **AI-Powered Assistance** — Get help with coding concepts and generate learning content using AI assistance.
-- 👨‍💻 **Personalized Learning** — Create customized learning spaces for different subjects and programming topics.
-- 👀 **Live Preview** — Preview website projects while developing them.
-- 📝 **Space Notes** — Organize important notes, ideas, and learning insights.
-- 🗑️ **Backup and Restore** — Manage deleted work and recover content when supported.
-- 🤝 **Collaboration** — Support collaborative project development and knowledge sharing.
-- 📚 **Interactive Learning** — Learn programming through hands-on practice and project-based activities.
 
 ## 🎯 Project Objectives
 
