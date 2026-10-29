@@ -2,15 +2,6 @@
 
 **CodeSpark** is a modern learning platform designed to make coding more interactive, accessible, and engaging. It provides a workspace where learners can explore programming concepts, write code, build websites, organize their work, and use AI-powered assistance to improve their learning experience.
 
-## 🛠️ Technologies Used
-
-The exact technology stack should match the implementation in the source repository.
-
-- **Frontend:** Add the frameworks and languages used in your project.
-- **Backend:** Add the backend technology, if applicable.
-- **AI Integration:** Add the AI model or API used, if applicable.
-- **Deployment:** Vercel
-
 ## 🚀 Getting Started
 
 ### 1. Visit the Live Website
