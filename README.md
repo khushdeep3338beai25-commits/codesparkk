@@ -2,6 +2,37 @@
 
 **CodeSpark** is a modern learning platform designed to make coding more interactive, accessible, and engaging. It provides a workspace where learners can explore programming concepts, write code, build websites, organize their work, and use AI-powered assistance to improve their learning experience.
 
+🌐 **Live Demo:** https://codesparrk.vercel.app
+
+## ✨ Features
+
+- 💻 **CodeSpace** — An interactive coding workspace for writing and developing code.
+- 🌐 **WebSpace** — Create and manage website projects using templates and live previews.
+- 🤖 **AI-Powered Assistance** — Get help with coding concepts and generate learning content using AI assistance.
+- 👨‍💻 **Personalized Learning** — Create customized learning spaces for different subjects and programming topics.
+- 👀 **Live Preview** — Preview website projects while developing them.
+- 📝 **Space Notes** — Organize important notes, ideas, and learning insights.
+- 🗑️ **Backup and Restore** — Manage deleted work and recover content when supported.
+- 🤝 **Collaboration** — Support collaborative project development and knowledge sharing.
+- 📚 **Interactive Learning** — Learn programming through hands-on practice and project-based activities.
+
+## 🎯 Project Objectives
+
+- Make programming easier to learn through practical experience.
+- Provide a unified workspace for coding, website development, and learning.
+- Use AI assistance to support problem-solving and content creation.
+- Encourage creativity, collaboration, and independent learning.
+- Help learners organize their code, notes, and projects efficiently.
+
+## 🛠️ Technologies Used
+
+The exact technology stack should match the implementation in the source repository.
+
+- **Frontend:** Add the frameworks and languages used in your project.
+- **Backend:** Add the backend technology, if applicable.
+- **AI Integration:** Add the AI model or API used, if applicable.
+- **Deployment:** Vercel
+
 ## 🚀 Getting Started
 
 ### 1. Visit the Live Website
@@ -30,6 +61,14 @@ If the project uses AI services or external APIs, configure the required environ
 
 **Important:** Never commit API keys, passwords, or other secrets to GitHub.
 
+## 📖 How to Use CodeSpark
+
+1. Open the CodeSpark website.
+2. Register or sign in if required.
+3. Create a learning space or coding workspace.
+4. Write code, develop a website, or explore learning resources.
+5. Use available AI assistance and preview tools to improve your work.
+6. Organize your projects and notes for future use.
 
 ## 🌟 Why CodeSpark?
 
